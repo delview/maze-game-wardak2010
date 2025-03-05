@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +34,7 @@
   },
   "name":"maze-game",
   "resources":[
-    {"id":{"name":"obj_fish_left","path":"objects/obj_fish_left/obj_fish_left.yy",},},
+    {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"id":{"name":"spr_fish_down","path":"sprites/spr_fish_down/spr_fish_down.yy",},},
     {"id":{"name":"spr_fish_left","path":"sprites/spr_fish_left/spr_fish_left.yy",},},
