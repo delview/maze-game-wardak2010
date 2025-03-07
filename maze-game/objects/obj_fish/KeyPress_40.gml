@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 35DE46F5
+/// @DnDHash : 672D064A
 /// @DnDArgument : "spriteind" "spr_fish_down"
 /// @DnDSaveInfo : "spriteind" "spr_fish_down"
 sprite_index = spr_fish_down;
