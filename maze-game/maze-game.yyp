@@ -41,6 +41,7 @@
     {"id":{"name":"obj_shark","path":"objects/obj_shark/obj_shark.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
+    {"id":{"name":"Splash_Sound_Effect","path":"sounds/Splash_Sound_Effect/Splash_Sound_Effect.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_coral","path":"sprites/spr_coral/spr_coral.yy",},},
     {"id":{"name":"spr_fish_down","path":"sprites/spr_fish_down/spr_fish_down.yy",},},
