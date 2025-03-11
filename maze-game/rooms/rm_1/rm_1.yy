@@ -6,7 +6,6 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_60EAB6F1","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_65006677","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_650E1B10","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_1F77171","path":"rooms/rm_1/rm_1.yy",},
@@ -39,11 +38,12 @@
     {"name":"inst_45CBA0AC","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_A3470D3","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_67299307","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_60EAB6F1","path":"rooms/rm_1/rm_1.yy",},
   ],
   "isDnd":true,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_60EAB6F1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_60EAB6F1","objectId":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.45,"x":640.0,"y":-32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_60EAB6F1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_60EAB6F1","objectId":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.45,"x":640.0,"y":-64.0,},
         {"$GMRInstance":"v1","%Name":"inst_65006677","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_65006677","objectId":{"name":"obj_seaweed","path":"objects/obj_seaweed/obj_seaweed.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":6.0,"x":224.0,"y":64.0,},
         {"$GMRInstance":"v1","%Name":"inst_650E1B10","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_650E1B10","objectId":{"name":"obj_seaweed","path":"objects/obj_seaweed/obj_seaweed.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":6.0,"x":320.0,"y":64.0,},
         {"$GMRInstance":"v1","%Name":"inst_1F77171","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F77171","objectId":{"name":"obj_seaweed","path":"objects/obj_seaweed/obj_seaweed.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":6.0,"x":416.0,"y":64.0,},
