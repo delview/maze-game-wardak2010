@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_leaf",
+  "%Name":"Object6",
   "eventList":[],
   "managed":true,
-  "name":"obj_leaf",
+  "name":"Object6",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_leaf",
-    "path":"sprites/spr_leaf/spr_leaf.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
