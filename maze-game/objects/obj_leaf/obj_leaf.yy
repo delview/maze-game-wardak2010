@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_leaf",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_leaf",
   "overriddenProperties":[],
