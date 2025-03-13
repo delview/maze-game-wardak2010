@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Splash_Sound_Effect",
+  "%Name":"Under_The_Sea__Trim_2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":4.649796,
-  "name":"Splash_Sound_Effect",
+  "duration":10.34449,
+  "name":"Under_The_Sea__Trim_2",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Splash_Sound_Effect.mp3",
+  "soundFile":"Under_The_Sea__Trim_2.mp3",
   "type":0,
   "volume":1.0,
 }
