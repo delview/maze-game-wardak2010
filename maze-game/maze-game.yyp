@@ -55,13 +55,14 @@
     {"id":{"name":"spr_seaweed","path":"sprites/spr_seaweed/spr_seaweed.yy",},},
     {"id":{"name":"spr_shark","path":"sprites/spr_shark/spr_shark.yy",},},
     {"id":{"name":"spr_shark2","path":"sprites/spr_shark2/spr_shark2.yy",},},
+    {"id":{"name":"spr_shark3","path":"sprites/spr_shark3/spr_shark3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
-    {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
