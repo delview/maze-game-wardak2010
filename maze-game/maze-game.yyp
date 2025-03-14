@@ -26,7 +26,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"eating cropped.mp4","CopyToMask":-1,"filePath":"datafiles","name":"eating cropped.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -51,6 +53,7 @@
     {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
     {"id":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
     {"id":{"name":"rm_5","path":"rooms/rm_5/rm_5.yy",},},
+    {"id":{"name":"eating_cropped2","path":"sounds/eating_cropped2/eating_cropped2.yy",},},
     {"id":{"name":"Under_The_Sea__Trim_2","path":"sounds/Under_The_Sea__Trim_2/Under_The_Sea__Trim_2.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_coral","path":"sprites/spr_coral/spr_coral.yy",},},
